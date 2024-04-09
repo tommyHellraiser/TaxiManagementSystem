@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\AddCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AddDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InputDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InputPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InputSessionKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PayFee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowAllDrivingSessions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowAllRepairLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowAllBalances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowCarAssigments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InputPlate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowAllDrivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ShowFleet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

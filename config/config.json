@@ -1,0 +1,14 @@
+{
+	"DbConfig": {
+		"DataSource": "NACHO-DESKTOP",
+		"InitialCatalog": "TaxiManagement",
+		"IntegratedSecurity": true,
+		"TrustServerCertificate": true
+	},
+	"FleetConfig": {
+		"MinimumYear": 2010,
+		"MaxHourlyRate": 50,
+		"MinHourlyRate": 15,
+		"MaximumPendingFees":  100
+	}
+}
